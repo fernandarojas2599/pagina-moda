@@ -1,0 +1,75 @@
+body{
+	background: url(../img/contacto.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h1{
+	color:#FF0080;
+	margin-top: 100px;
+}
+input{
+	width: 300px;
+	height: 35px;
+}
+textarea{
+	width: 600px;
+	height: 70px;
+	margin-top: 5px;
+}
+textarea{
+	background: #fff;
+	border: solid 2px #DF01D7;
+	color:#000000;
+}
+input{
+		background: transparent;
+	border: solid 2px #DF01D7;
+	color:#000000;
+}
+input[type=submit]{
+	color:#FF0080;
+}
+::-webkit-input-placeholer
+{
+	color:#fff;
+}
+.group {
+	
+	font-size: 30px;
+	color: #006;
+text-align: center;
+margin-top: 200px;
+	
+
+}
+.menu{
+	width: 1350px;
+	height: 60px;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	background: #DF01A5;
+    float: left;
+	text-align: center;
+
+}
+.menu ul{}
+.menu ul li{
+	list-style: none;
+	float: left;
+	padding: 5px 580px;
+	font-family: Didot;
+	font-size: 20px;
+
+
+}
+.menu ul li a{
+	text-decoration: none;
+	border: 0px solid #000000;
+	color: #000000;
+}
+.menu ul li a:hover{
+	background: #FF00BF;
+	padding: 5px 30px;
+	color:#ffffff;
+
+}
